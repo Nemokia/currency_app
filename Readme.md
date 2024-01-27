@@ -52,5 +52,7 @@ python currency_app.py
 **## Contributing**
 
 We value collaboration! Feel free to submit pull requests or open issues to address bugs or propose enhancements. Together, we can elevate this tool to its full potential!
+
+
 **##Using .exe file**
 In dist folder just download the file and oepn it the app will start
